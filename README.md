@@ -1,2 +1,3 @@
-# ultra-cybergod
-This is my portfolio.
+# My Portfolio 
+Hello, World! This is Ethan, live from Texas!
+
